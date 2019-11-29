@@ -1,0 +1,17 @@
+
+Some todos for the project [no specific order]
+- Text analysis pipeline for sentiments
+  - Text extraction from videos
+  - Parsing text into vectors for ML
+  - ML with ~90% accuracy on test data and atleast ~75% on validate
+
+- Video analysis pipeline for emotions
+  - FaceNet for face detection or basic Haar classifier
+  - Face Emotional analysis with decent accuracy (unknown accuracy rn)
+  - Confidence prediction and kalman filter with sentiment analysis from dialogue
+
+- Visualization of predictions
+  - Ability to see precent of match of dialogue sentiment and emotions from face
+  - Visualize percentages of emotions and video indexing based on it
+
+- Python/Go server to handle video upload
